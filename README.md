@@ -1,2 +1,7 @@
 # hello-world
-This project is for the unit of Assign Yourself in the Introduction to GitHub course .
+
+Hi,
+I am Silvia, a software configuration management engineer for an indurstrial company. 
+Today, I start the learning on GitHub and Git usage. 
+
+Hope, through pratice on 'Introduction to GitHub' course, I will get the professonal knowledge gradually.
